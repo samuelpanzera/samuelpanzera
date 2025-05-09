@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/samuel-panzera-b1b684208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
-🚀 3º Periodo - Ciência da computação <br>
+ Ciência da computação <br>
