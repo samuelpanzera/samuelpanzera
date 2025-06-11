@@ -11,7 +11,6 @@
 </div>
 
 ##
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
 <div>
   
