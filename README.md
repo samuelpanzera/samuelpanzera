@@ -9,7 +9,7 @@
 
 -   🎓 Studying **Computer Science**
     
--   💬 English: **Intermediate**
+-   💬 English: **Intermediate** (B1)
     
 -   📫 How to reach me: **samuelpanzera@gmail.com**
     
